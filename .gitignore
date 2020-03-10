@@ -1,0 +1,9 @@
+/build
+/dist
+/.vscode
+/__pycache__
+*.xls
+*.xlsx
+*.ico
+*.png
+.exe
